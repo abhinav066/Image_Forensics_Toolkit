@@ -1,7 +1,15 @@
 <div align='center'>
 
 
+
 <p>Elevate your investigative capabilities with Image Forensics Toolkit. Seamlessly uncover concealed information, extract hidden flags, and effortlessly crack passwords. Unlock the depths of every pixel to reveal the truth concealed within images</p>
+
+<p>The Image Forensic Tool is a powerful toolkit for analyzing images and uncovering hidden data. To use the passphrase cracking feature, you'll need a wordlist file containing potential passwords.
+
+### Wordlist File
+
+Download the wordlist file [here] https://drive.google.com/file/d/1Yzu1DXNDlK8XlBCy1x9hMfC6-SwFUbUx/view?usp=sharing  and place it in the Image Forensic Tool folder.
+  </p>
 
 <h4> <span> · </span> <a href="https://github.com/abhinav066/Image_Forensics_Toolkit/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/abhinav066/Image_Forensics_Toolkit/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/abhinav066/Image_Forensics_Toolkit/issues"> Request Feature </a> </h4>
 
