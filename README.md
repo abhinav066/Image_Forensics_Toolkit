@@ -75,6 +75,8 @@ see `contributing.md` for ways to get started
 Abhinav Nath.V - - abhinavnathv2002@gmail.com
 
 Project Link: [https://github.com/abhinav066/Image_Forensics_Toolkit.git](https://github.com/abhinav066/Image_Forensics_Toolkit.git)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhinav.ser) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavnathv) 
 
  ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/abhinavnath) 
