@@ -52,6 +52,10 @@ git clone https://github.com/abhinav066/Image_Forensics_Toolkit.git
 ```
 
 ```bash
+Download the wordlist file [here] https://drive.google.com/file/d/1Yzu1DXNDlK8XlBCy1x9hMfC6-SwFUbUx/view?usp=sharing  and place it in the Image Forensic Tool folder.
+```
+
+```bash
 pip install -r requirements.txt
 ```
 
